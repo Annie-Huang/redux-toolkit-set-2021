@@ -15,3 +15,15 @@ PS C:\react\redux-toolkit-set-2021> npm install @reduxjs/toolkit react-redux
 PS C:\react\redux-toolkit-set-2021> npm install axios
 
 Set up network to be 'Slow 3G' and refresh the page, you will see the data at the pending state as well before it change to the one in fulfilled state.
+
+
+---------------------------
+Other way to doing things:
+
+https://github.com/safak/youtube/blob/redux/src/redux/userSlice.js
+
+Complete Shopping Cart 🛒 - 7 createAsyncThunk | React and Redux Toolkit Course (https://www.youtube.com/watch?v=0T7P6Mb2XNE)
+https://github.com/chaoocharles/complete-shopping-cart/blob/main/frontend/src/slices/productsSlice.js
+
+Side Effects | Async Actions | createAsyncThunk | Redux Toolkit Introduction | React (https://www.youtube.com/watch?v=mPBLXWgD1Vc)
+https://github.com/raulterhesdev/redux-toolkit-introduction-youtube/blob/9-async-thunk/src/store/slices/authSlice.js
