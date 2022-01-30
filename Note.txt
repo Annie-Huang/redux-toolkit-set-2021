@@ -3,7 +3,12 @@ React Redux Toolkit Setup and CreateAsyncThunk on API (https://www.youtube.com/w
 https://github.com/Rinlama/ReactToolsSet2021/tree/reduxtoolkitthunk
 https://github.com/Annie-Huang/redux-toolkit-set-2021
 
+https://redux-toolkit.js.org/api/createAsyncThunk
+https://redux-toolkit.js.org/api/createSlice#the-extrareducers-map-object-notation
+https://redux-toolkit.js.org/api/createSlice#the-extrareducers-builder-callback-notation
+
 ========================================================================================
+
 PS C:\react> npx create-react-app redux-toolkit-set-2021  --use-npm
 PS C:\react\redux-toolkit-set-2021> npm install @reduxjs/toolkit react-redux
 PS C:\react\redux-toolkit-set-2021> npm install axios
