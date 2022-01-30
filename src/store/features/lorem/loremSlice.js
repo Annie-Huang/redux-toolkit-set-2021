@@ -1,7 +1,7 @@
 import { createAsyncThunk, createSlice } from '@reduxjs/toolkit';
 import axios from 'axios';
 
-const getLorem = createAsyncThunk(
+export const getLorem = createAsyncThunk(
   'lorem/getData',
   (arg, { rejectWithValue }) => {
     try {
