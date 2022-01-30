@@ -1,0 +1,7 @@
+React Redux Toolkit Setup and CreateAsyncThunk on API (https://www.youtube.com/watch?v=Oc14xbizA2o)
+
+https://github.com/Rinlama/ReactToolsSet2021/tree/reduxtoolkitthunk
+https://github.com/Annie-Huang/redux-toolkit-set-2021
+
+========================================================================================
+PS C:\react> npx create-react-app redux-toolkit-set-2021  --use-npm
