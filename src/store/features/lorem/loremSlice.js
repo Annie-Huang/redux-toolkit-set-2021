@@ -3,9 +3,9 @@ import axios from 'axios';
 
 export const getLorem = createAsyncThunk(
   'lorem/getData',
-  (arg, { rejectWithValue }) => {
+  async (arg, { rejectWithValue }) => {
     try {
-      const { data } = axios.get('https://baconipsum.com/api/?type=tst');
+      const { data } = await axios.get('https://baconipsum.com/api/?type=tst');
       return data;
     } catch (error) {
       rejectWithValue(error.respond.data);
