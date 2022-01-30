@@ -14,4 +14,4 @@ PS C:\react> npx create-react-app redux-toolkit-set-2021  --use-npm
 PS C:\react\redux-toolkit-set-2021> npm install @reduxjs/toolkit react-redux
 PS C:\react\redux-toolkit-set-2021> npm install axios
 
-
+Set up network to be 'Slow 3G' and refresh the page, you will see the data at the pending state as well before it change to the one in fulfilled state.
