@@ -5,3 +5,5 @@ https://github.com/Annie-Huang/redux-toolkit-set-2021
 
 ========================================================================================
 PS C:\react> npx create-react-app redux-toolkit-set-2021  --use-npm
+PS C:\react\redux-toolkit-set-2021> npm install @reduxjs/toolkit react-redux
+
